@@ -7,7 +7,7 @@ Step 1: Install Required Tools
 
      $ sudo apt install tcpdump -y
 
-Step 2: Create the NIDS Script
+Step 2: Create the NIDS Script 
 # Open a new file in text editor, And write the script.
 
      $ nano NIDS_project.sh
